@@ -1,4 +1,4 @@
-data = [
+data = [    
     {
         'name': 'Instagram',
         'follower_count': 346,
@@ -298,7 +298,7 @@ data = [
         'follower_count': 47,
         'description': 'Club Basketball Competition',
         'country': 'United States'
-    }
+    },
     {
         'name': 'Boykov Nikita',
         'follower_count': 0,
