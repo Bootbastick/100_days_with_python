@@ -24,10 +24,6 @@ class QuizBrain:
             self.score += 1
         else:
             print("That's wrong.")
-        print(f"The correct answer was {correct_answer}.")
-        if self.still_has_questions == True:    
-            print(f"Your current score is: {self.score}/{self.perfect_score}")
-            print("\n")
-        else:
-            print("You've completed the quiz!")
-            print(f"Your final score was: {self.score}/{self.perfect_score}")
+        print(f"The correct answer was {correct_answer}.")   
+        print(f"Your current score is: {self.score}/{self.perfect_score}")
+        print("\n")
