@@ -21,10 +21,7 @@ while score < 50:
     for i in state_names:
         if answer_state == "Exit":
             # Make a list with the states that user didn't named.
-            missing_states = []
-            for state in state_names:
-                if state not in state_names:
-                    missing_states.append(state)
+            missing_states = [state for state in state_names if state not in correct_answers]
             new_data = pandas.DataFrame(missing_states)
             new_data.to_csv("states_to_learn.csv")
             exit()
