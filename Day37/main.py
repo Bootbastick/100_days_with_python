@@ -2,9 +2,9 @@ import requests
 import datetime
 
 pixela_endpoint = "https://pixe.la/v1/users"
-PIXELA_USERNAME = "bootbastick"
-PIXELA_API_TOKEN = "#=x77o1&845"
-GRAPH_ID = "graph1"
+PIXELA_USERNAME = "pixela username"
+PIXELA_API_TOKEN = "pixela API token"
+GRAPH_ID = "graph id"
 user_params = {
     "token": PIXELA_API_TOKEN,
     "username": PIXELA_USERNAME,
