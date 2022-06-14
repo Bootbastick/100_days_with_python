@@ -4,7 +4,7 @@ import datetime
 pixela_endpoint = "https://pixe.la/v1/users"
 PIXELA_USERNAME = "pixela username"
 PIXELA_API_TOKEN = "pixela API token"
-GRAPH_ID = "graph id"
+GRAPH_ID = "graphm id"
 user_params = {
     "token": PIXELA_API_TOKEN,
     "username": PIXELA_USERNAME,
