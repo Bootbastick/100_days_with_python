@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/100_days_with_python.iml" filepath="$PROJECT_DIR$/.idea/100_days_with_python.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/discord_attack_bots/.idea/discord_attack_bots.iml" filepath="$USER_HOME$/PycharmProjects/discord_attack_bots/.idea/discord_attack_bots.iml" />
     </modules>
   </component>
 </project>
