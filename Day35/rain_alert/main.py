@@ -2,8 +2,8 @@ import requests
 import smtplib
 
 api_key = "api_key_here"
-MY_LAT = 42.453060
-MY_LONG = 18.537239
+MY_LAT = 42.499956
+MY_LONG = 18.478280
 MY_EMAIL = "bootbastick@yahoo.com"
 PASSWORD = "pfcmbhhjtiionwcy"
 
